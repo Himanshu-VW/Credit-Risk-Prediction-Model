@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets
+LendingClubDataset/
+
+# OS generated files
+.DS_Store
+Thumbs.db
